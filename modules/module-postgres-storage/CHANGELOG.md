@@ -1,5 +1,17 @@
 # @powersync/service-module-postgres-storage
 
+## 0.11.1
+
+### Patch Changes
+
+- 479997b: Introduce `BaseSyncConfig` to represent SQL-based sync rules and precompiled sync plans.
+- Updated dependencies [479997b]
+  - @powersync/service-sync-rules@0.31.0
+  - @powersync/service-core@1.19.1
+  - @powersync/lib-services-framework@0.8.1
+  - @powersync/service-jpgwire@0.21.11
+  - @powersync/lib-service-postgres@0.4.20
+
 ## 0.11.0
 
 ### Minor Changes
