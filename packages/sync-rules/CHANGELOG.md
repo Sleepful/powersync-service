@@ -1,5 +1,11 @@
 # @powersync/service-sync-rules
 
+## 0.31.0
+
+### Minor Changes
+
+- 479997b: Introduce `BaseSyncConfig` to represent SQL-based sync rules and precompiled sync plans.
+
 ## 0.30.0
 
 ### Minor Changes

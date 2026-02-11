@@ -1,5 +1,14 @@
 # @powersync/service-core-tests
 
+## 0.13.1
+
+### Patch Changes
+
+- 479997b: Introduce `BaseSyncConfig` to represent SQL-based sync rules and precompiled sync plans.
+- Updated dependencies [479997b]
+  - @powersync/service-sync-rules@0.31.0
+  - @powersync/service-core@1.19.1
+
 ## 0.13.0
 
 ### Minor Changes
